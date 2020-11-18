@@ -1,4 +1,3 @@
-# amazing-graph-ui-clone
+# amazing-graph-ui-clone | DevChallenge
 
-devchallenge
-ui-clone amazing-grapg
+![alt text](https://i.ibb.co/rvRr8mv/unknown.png)
